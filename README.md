@@ -77,6 +77,6 @@ Contributions are welcome! For major changes, please open an issue first to disc
 
 ## License
 
-[MIT](https://choosealicense.com/licenses/mit/)
+This project is licensed under the MIT License - see the [LICENSE](https://github.com/Leya-LI/Text-classification-with-LSTM/blob/main/LICENSE) file for details.
 ---
 
