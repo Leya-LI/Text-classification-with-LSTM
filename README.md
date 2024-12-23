@@ -31,9 +31,8 @@ Before you begin, ensure you have met the following requirements:
 ```
 project_root/
 ├── data/						# The directory of datasets
-│   └── renMinRiBao/
-│       ├── test_data.tsv
-│       ├── train_data.tsv
+│   ├── train_data.tsv
+│   └── test_data.tsv
 ├── model/						# The directory to save models
 ├── LSTM.py					# LSTM model definition
 ├── preprocess_data.py			# Preprocess the datasets
